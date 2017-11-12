@@ -1,12 +1,9 @@
 #!__*__coding:utf-8__*__
 import decimal
 
-
-a = [1,1,1,2,2,3,3,3,4,4,5];
-print (set(a));
-
-
-a = b = [1,2,3];
-a[1]= 4;
-print (b)
-# asdjflkjasdklfjklasdjfkljkl
+for i in range(1,10) :
+    for j in range(1,10) :
+        #print(i, "x", j, "=", i*j, end = ". ");
+        print("%2d x%2d =%2d" % (j, i, i * j), end=", ");
+        #print(i * j, end=" ");
+    print("");
