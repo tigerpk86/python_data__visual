@@ -1,7 +1,10 @@
+
 #!__*__coding:utf-8__*__
 import csv
 import time
 import os
+import collections
+from pytagcloud import create_tag_image, make_tags
 import collections
 
 store_name_list = [];
@@ -44,11 +47,16 @@ def saveFile(filename):
     f.close();
 
 
-full_filenames = search("C:\\Users\\505\\Desktop\\상가업소정보__2016년_9월_\\");
-readFile(full_filenames);
-store_count_dic = collections.Counter(store_name_count);
-store_count_dic = store_count_dic.most_common(50)
-saveFile("test.txt")
+if __name__ == "__main__":
+    full_filenames = search("C:\\Users\\505\\Downloads\\상가업소_201609\\");
+    readFile(full_filenames);
+    store_count_dic = collections.Counter(store_name_count);
+    store_count_dic = store_count_dic.most_common(50)
+
+    b = make_tags(store_count_dic , maxsize=50)
+    create_tag_image(b, "bbbb.png",size=(1000, 500), background=(0,0,0),  fontname="hangle");
+
+#saveFile("test.txt")
 
 # findStoreCount();
 
