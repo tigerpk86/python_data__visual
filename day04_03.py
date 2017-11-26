@@ -3,7 +3,12 @@
 import pandas as pd
 import os
 import glob
+import re
 
+search = "[스타벅스|롯데리아]"
+p = re.compile(search);
+m = p.search("스타벅스한국");
+print(m)
 
 top_dir = "C:\\Users\\505\\Downloads\\상가업소_201609\\"
 file_names = glob.glob(os.path.join(top_dir, "*.csv"))
@@ -14,6 +19,7 @@ for filename in file_names :
     a.append(df)
 
 df = pd.concat(a)
+
 
 starbucks = df[df.상호명.notnull() & df.상호명.str.contains("스타벅스")]
 #starbucks["강남"] = starbucks.시도명.apply(is_gangnam)

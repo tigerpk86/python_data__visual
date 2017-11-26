@@ -1,0 +1,6 @@
+State,Unemployment
+AL,7.1
+AK,9.1
+AZ,10
+AR,5
+CA,4
