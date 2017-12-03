@@ -46,7 +46,8 @@ def search_news_main(keyword):
             }
             try :
                 x = get_main_content.get_main_content(html.unescape(one_item["originallink"]))
-            r2["text"] = x;
+                r2["text"] = x;
+            except:
             df = df.append(r2, ignore_index=True)
     output_filename = keyword + "_블로그검색결과.xlsx"
     df.to_excel(output_filename)

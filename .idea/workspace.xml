@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca90298f-80b5-4b14-9043-1fff3b6a0588" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06_네이버뉴스.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day06_네이버뉴스_본문.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day6_네이버검색.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_main_content.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/크롬자동화.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/cafebane_201706.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/cafebene_지역별_상점수_2017.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/analysis_comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day07_pytagcloud_remind.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/my_main_program.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_calculate_100days.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_naver_comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_naver_search_blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_naver_search_blog_main_content.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_naver_search_news.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_naver_search_news_main_content.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_project/sub_pytagcloud.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/coffee_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/data_draw_korea.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/day7_치킨.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/day7_카페베네.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/day7_한국지도그리기_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korean_map/korea_showMap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/셀레니움테스트.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/request api and get json.ipynb" afterPath="$PROJECT_DIR$/request api and get json.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day06_네이버뉴스.py" afterPath="$PROJECT_DIR$/day06_네이버뉴스.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +37,7 @@
     <SUITE FILE_PATH="coverage/python_data__visual$day01_02.coverage" NAME="day01_02 Coverage Results" MODIFIED="1510381204913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,25 +49,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>searchEmployee</find>
-      <find>loadEmployeeInfo</find>
-      <find>str</find>
-      <find>emplyee_dic</find>
-      <find>i</find>
-      <find>num1</find>
-      <find>set_salray</find>
-      <find>day03_03</find>
-      <find>store_name_count</find>
-      <find>day02_02</find>
-      <find>search</find>
-      <find>csv</find>
-      <find>module</find>
-      <find>subjects</find>
-      <find>dfc</find>
-      <find>app</find>
-      <find>samsung</find>
-      <find>samsub</find>
-      <find>apply</find>
       <find>ax</find>
       <find>readFile</find>
       <find>fx</find>
@@ -62,9 +57,28 @@
       <find>show</find>
       <find>jlt</find>
       <find>my_map</find>
-      <find>search_news_main</find>
       <find>start_idx</find>
+      <find>naver_news</find>
+      <find>sub_naver_search_news</find>
+      <find>click</find>
+      <find>u_cbox_contents</find>
+      <find>naver_comment</find>
+      <find>NUMBER_OF_SEARCH</find>
+      <find>script</find>
+      <find>decomp</find>
+      <find>decompo</find>
       <find>get_main_content</find>
+      <find>search_news_main</find>
+      <find>get_naver_comment</find>
+      <find>get_main_content_from_news</find>
+      <find>dd</find>
+      <find>sub_calculate_100days</find>
+      <find>korea_showMap</find>
+      <find>drawKorea</find>
+      <find>blockedMap</find>
+      <find>BORDER_LINES</find>
+      <find>file</find>
+      <find>df</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -109,8 +123,21 @@
         <option value="$PROJECT_DIR$/get_영화.py" />
         <option value="$PROJECT_DIR$/결과.txt" />
         <option value="$PROJECT_DIR$/day06_네이버뉴스_본문.py" />
-        <option value="$PROJECT_DIR$/day06_네이버뉴스.py" />
         <option value="$PROJECT_DIR$/크롬자동화.py" />
+        <option value="$PROJECT_DIR$/셀레니움테스트.py" />
+        <option value="$PROJECT_DIR$/beautiful soup.ipynb" />
+        <option value="$PROJECT_DIR$/day06_네이버뉴스.py" />
+        <option value="$PROJECT_DIR$/analysis_comment.py" />
+        <option value="$PROJECT_DIR$/sub_naver_search_news.py" />
+        <option value="$PROJECT_DIR$/sub_naver_search_blog.py" />
+        <option value="$PROJECT_DIR$/sub_naver_comment.py" />
+        <option value="$PROJECT_DIR$/final_project/sub_naver_comment.py" />
+        <option value="$PROJECT_DIR$/final_project/sub_pytagcloud.py" />
+        <option value="$PROJECT_DIR$/day07_pytagcloud_remind.py" />
+        <option value="$PROJECT_DIR$/korean_map/day7_카페베네.py" />
+        <option value="$PROJECT_DIR$/korean_map/day7_치킨.py" />
+        <option value="$PROJECT_DIR$/korean_map/coffee_data.py" />
+        <option value="$PROJECT_DIR$/login_band.py" />
       </list>
     </option>
   </component>
@@ -120,9 +147,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="491" />
-    <option name="width" value="1153" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="width" value="1555" />
     <option name="height" value="860" />
   </component>
   <component name="ProjectView">
@@ -140,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,11 +174,17 @@
               <item name="python_data__visual" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data__visual" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_data__visual" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data__visual" type="462c0819:PsiDirectoryNode" />
+              <item name="korean_map" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,6 +195,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\git\python_data__visual" />
+      <recent name="C:\git\python_data__visual\final_project" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -177,76 +210,76 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.크롬자동화">
-    <configuration name="크롬자동화" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.login_band">
+    <configuration name="coffee_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/korean_map" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_data__visual" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/크롬자동화.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/korean_map/coffee_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="day06_네이버뉴스" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day7_카페베네" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/korean_map" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_data__visual" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06_네이버뉴스.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/korean_map/day7_카페베네.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="day06_네이버뉴스_본문" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day7_치킨" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/korean_map" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_data__visual" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06_네이버뉴스_본문.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/korean_map/day7_치킨.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="day6_네이버검색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day7_한국지도그리기_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/korean_map" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_data__visual" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6_네이버검색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/korean_map/day7_한국지도그리기_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="get_영화" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="login_band" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -258,7 +291,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_data__visual" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_영화.py" />
+      <option name="SCRIPT_NAME" value="C:\git\python_data__visual\login_web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,21 +312,19 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <list size="6">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.python_data__visual" />
-      <item index="1" class="java.lang.String" itemvalue="Python.day6_네이버검색" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_영화" />
-      <item index="3" class="java.lang.String" itemvalue="Python.day06_네이버뉴스" />
-      <item index="4" class="java.lang.String" itemvalue="Python.day06_네이버뉴스_본문" />
-      <item index="5" class="java.lang.String" itemvalue="Python.크롬자동화" />
+      <item index="1" class="java.lang.String" itemvalue="Python.day7_한국지도그리기_01" />
+      <item index="2" class="java.lang.String" itemvalue="Python.day7_카페베네" />
+      <item index="3" class="java.lang.String" itemvalue="Python.login_band" />
+      <item index="4" class="java.lang.String" itemvalue="Python.coffee_data" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.크롬자동화" />
-        <item index="1" class="java.lang.String" itemvalue="Python.day06_네이버뉴스_본문" />
-        <item index="2" class="java.lang.String" itemvalue="Python.day06_네이버뉴스" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_영화" />
-        <item index="4" class="java.lang.String" itemvalue="Python.day6_네이버검색" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.login_band" />
+        <item index="1" class="java.lang.String" itemvalue="Python.coffee_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.day7_카페베네" />
+        <item index="3" class="java.lang.String" itemvalue="Python.day7_한국지도그리기_01" />
       </list>
     </recent_temporary>
   </component>
@@ -311,15 +342,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="43" y="0" width="1555" height="860" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21915168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26153848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25466666" sideWeight="0.2704" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1878453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18646409" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20945945" sideWeight="0.7296" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38259667" sideWeight="0.7296" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -348,206 +379,22 @@
           <line>36</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/셀레니움테스트.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/korean_map/day7_치킨.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pytagcloud/fonts/fonts.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="108" column="23" lean-forward="false" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123123123" />
-    <entry file="file://$PROJECT_DIR$/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/access_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_output.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pytagcloud/lang/counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbbb.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaaa.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_reader" />
-    <entry file="file://$PROJECT_DIR$/hello.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#34#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/market_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST4.PNG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook_day04.py.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="76" column="31" lean-forward="false" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map_output_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="43" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day04_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,35 +472,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/_AZTMP0_/day6_네이버검색.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_mail_content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/_AZTMP0_/day6_네이버검색.py" />
+    <entry file="file://$PROJECT_DIR$/get_mail_content.py" />
     <entry file="file://$PROJECT_DIR$/movie.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_main_content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,24 +493,8 @@
         <state relative-caret-position="270">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/크롬자동화.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06_네이버뉴스.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +511,219 @@
         <state relative-caret-position="228">
           <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
-            <element signature="e#26#41#0" expanded="true" />
+            <element signature="e#26#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/크롬자동화.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result07.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/셀레니움테스트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_pytagcloud.py" />
+    <entry file="file://$PROJECT_DIR$/sub_naver_search_news_main_content.py" />
+    <entry file="file://$PROJECT_DIR$/get_main_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06_네이버뉴스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="50" column="19" lean-forward="false" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_naver_comment.py" />
+    <entry file="file://$PROJECT_DIR$/my_main_program.py" />
+    <entry file="file://$PROJECT_DIR$/analysis_comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_naver_search_news.py" />
+    <entry file="file://$PROJECT_DIR$/sub_naver_search_blog.py" />
+    <entry file="file://$PROJECT_DIR$/final_project/sub_calculate_100days.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_project/my_main_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_project/sub_pytagcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="76" column="31" lean-forward="false" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="56" column="90" lean-forward="false" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/star.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07_pytagcloud_remind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/day7_한국지도그리기_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/data_draw_korea.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/korea_showMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="87" column="19" lean-forward="true" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/day7_카페베네.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_project/sub_naver_comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautiful soup.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/day7_치킨.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="92" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="92" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="239" column="14" lean-forward="true" selection-start-line="239" selection-start-column="14" selection-end-line="239" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/sample_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/korean_map/coffee_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
