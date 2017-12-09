@@ -28,6 +28,7 @@ for i in z1.columns:
 
     m = pd.read_csv(csv, encoding="utf-8", engine="python")
     print(m)
+    dfb.apply
 
     yy = starbucks.merge(m, how='right', left_on=['시도명', '시군구명'], right_on=['광역시도', '행정구역'])
     print(yy)
