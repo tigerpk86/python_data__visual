@@ -44,8 +44,6 @@ def search_blog_main(keyword):
         result = search_blog_from_naver(keyword, start_idx)
         result2 = json.loads(result, encoding="utf-8")
         for one_item in result2["items"]:
-            print(naver_main.get_title(one_item["title"]))
-
             my_url = html.unescape(one_item["link"])
             if my_url.find("blog.naver.com") >= 0:
                 c = naver_main.get_main_content(my_url)
